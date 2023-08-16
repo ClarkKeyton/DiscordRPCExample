@@ -1,0 +1,2 @@
+# DiscordRPCExample
+DiscordRPCExample by ClarkKeyton
